@@ -8,6 +8,4 @@ int main(){
 int sum = add(5, 4);
  cout<< "Hello  " << sum <<endl;
 
-
-
 }
